@@ -1,0 +1,3 @@
+[submodule "elpv-dataset"]
+	path = elpv-dataset
+	url = git@github.com:zae-bayern/elpv-dataset.git
